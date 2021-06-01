@@ -15,4 +15,3 @@
 ![](https://github.com/sneha-almeida/Android-Lock-Screen-Using-combination-of-Pin-and-Pattern-for-Unlocking/blob/main/ss-5.jpg)
 
 
-![](https://github.com/sneha-almeida/Android-Lock-Screen-Using-combination-of-Pin-and-Pattern-for-Unlocking/blob/main/ss-6.jpg)
